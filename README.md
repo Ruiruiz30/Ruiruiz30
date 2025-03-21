@@ -4,7 +4,6 @@
 - 🌱 I’m currently learning Multimodal Technology, NLP, CV
 - 💬 Ask me about <highlight>NLP, pytorch, Metaheuristics</highlight>
 - 📫 How to reach me: Jinrui Zhang (ruriuiz@gmail.com)
-- 😄 The purpose of scientific research is for development, not SCI!
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
