@@ -23,6 +23,5 @@ Here are some ideas to get you started:
 
 ---
 
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ruiruiz30&show_icons=true)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Ruiruiz30&langs_count=3&hide=javascript,go,html,css,tex,Roff)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruiruiz30)
