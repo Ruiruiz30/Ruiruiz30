@@ -3,7 +3,7 @@
 - 🔭 II'm currently working on NLP, CV, LLM, Operations optimization, and metaheuristics
 - 🌱 I’m currently learning Multimodal Technology, NLP, CV
 - 💬 Ask me about <highlight>NLP, pytorch, Metaheuristics</highlight>
-- 📫 How to reach me: Jinrui Zhang (ruriuiz@gmail.com)
+- 📫 How to reach me: Leo Zhang (ruriuiz@gmail.com)
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
