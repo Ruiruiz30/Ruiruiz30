@@ -1,9 +1,9 @@
 
-### Hi there,I'm Jinrui Zhang 👋
-- 🔭 II'm currently working on NLP, CV, LLM, Operations optimization, and metaheuristics
+### Hi there,I'm Leo 👋
+- 🔭 II'm currently working on Agents, NLP, CV, LLM, Operations optimization, and metaheuristics
 - 🌱 I’m currently learning Multimodal Technology, NLP, CV
-- 💬 Ask me about <highlight>NLP, pytorch, Metaheuristics</highlight>
-- 📫 How to reach me: Leo Zhang (ruriuiz@gmail.com)
+- 💬 Ask me about <highlight>Agents, NLP, pytorch, Metaheuristics</highlight>
+- 📫 How to reach me: Leo (ruriuiz@gmail.com)
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
