@@ -21,6 +21,4 @@ Here are some ideas to get you started:
 
 
 ---
-[<img style="height:165px;" src="https://github-readme-stats-colour93.vercel.app/api?username=ruiruiz30&show_avatar=true&show_icons=true&locale=cn&bg_color=45,fff0f6,fff2e8&text_color=383838&title_color=1890ff&icon_color=597Ff7" />](https://github.com/ruiruiz30)
-[<img style="height:165px;" src="https://github-readme-stats-colour93.vercel.app/api/top-langs/?username=ruiruiz30&layout=compact&locale=cn&bg_color=45,fff2e8,fff0f6&text_color=383838&title_color=1890ff&icon_color=597Ff7" />](https://github.com/ruiruiz30)
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruiruiz30)
