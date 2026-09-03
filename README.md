@@ -5,7 +5,7 @@
 - 💬 Ask me about <highlight>Agents, NLP, pytorch, Metaheuristics</highlight>
 - 📫 How to reach me: Leo (ruriuiz@gmail.com)
 
-![My Skills](https://skillicons.dev/icons?i=py,pytorch,ts,js,cpp,docker,kubernetes,git&theme=light)
+![My Skills](https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,sklearn,anaconda,docker,kubernetes&theme=light)
 <!--
 **** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
