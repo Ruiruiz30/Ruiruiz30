@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 
 ---
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ruiruiz30)
+![Ashutosh's github activity graph](https://raw.githubusercontent.com/Ruiruiz30/Ruiruiz30/output/activity-graph.svg)
