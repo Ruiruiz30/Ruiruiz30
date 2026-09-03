@@ -40,7 +40,7 @@ jobs:
         run: |
           mkdir -p dist
           mv -f snake-light.svg snake-dark.svg dist/ 2>/dev/null || true
-          mv -f profile-season-animate.svg profile-night-rainbow.svg dist/ 2>/dev/null || true
+          mv -f profile-3d-contrib/profile-season-animate.svg profile-3d-contrib/profile-night-rainbow.svg dist/ 2>/dev/null || true
           ls -la dist/
 
       - name: Push to output branch
