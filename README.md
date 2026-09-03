@@ -24,7 +24,10 @@ Here are some ideas to get you started:
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ruiruiz30&show_icons=true&hide_border=true" height="160" alt="GitHub Stats" /> <img src="https://streak-stats.demolab.com?user=Ruiruiz30&hide_border=true" height="160" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruiruiz30/Ruiruiz30/output/stats-dark.svg">
+  <img src="https://raw.githubusercontent.com/Ruiruiz30/Ruiruiz30/output/stats-light.svg" height="160" alt="GitHub Stats" />
+</picture> <img src="https://streak-stats.demolab.com?user=Ruiruiz30&hide_border=true" height="160" alt="GitHub Streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruiruiz30/Ruiruiz30/output/profile-night-rainbow.svg">

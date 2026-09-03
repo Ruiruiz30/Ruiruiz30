@@ -36,11 +36,31 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
+      - name: Generate profile summary cards (light theme)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github
+          AUTO_PUSH: false
+
+      - name: Generate profile summary cards (dark theme)
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          THEME: github_dark
+          AUTO_PUSH: false
+
       - name: Collect outputs
         run: |
           mkdir -p dist
           mv -f snake-light.svg snake-dark.svg dist/ 2>/dev/null || true
           mv -f profile-3d-contrib/profile-season-animate.svg profile-3d-contrib/profile-night-rainbow.svg dist/ 2>/dev/null || true
+          mv -f profile-summary-card-output/github/3-stats.svg dist/stats-light.svg 2>/dev/null || true
+          mv -f profile-summary-card-output/github_dark/3-stats.svg dist/stats-dark.svg 2>/dev/null || true
           ls -la dist/
 
       - name: Push to output branch
