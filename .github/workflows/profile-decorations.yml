@@ -45,6 +45,9 @@ jobs:
           THEME: github
           AUTO_PUSH: false
 
+      - name: Stash light stats card
+        run: mv -f profile-summary-card-output/github/3-stats.svg dist/stats-light.svg
+
       - name: Generate profile summary cards (dark theme)
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
@@ -59,7 +62,6 @@ jobs:
           mkdir -p dist
           mv -f snake-light.svg snake-dark.svg dist/ 2>/dev/null || true
           mv -f profile-3d-contrib/profile-season-animate.svg profile-3d-contrib/profile-night-rainbow.svg dist/ 2>/dev/null || true
-          mv -f profile-summary-card-output/github/3-stats.svg dist/stats-light.svg 2>/dev/null || true
           mv -f profile-summary-card-output/github_dark/3-stats.svg dist/stats-dark.svg 2>/dev/null || true
           ls -la dist/
 
